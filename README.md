@@ -5,7 +5,7 @@ Ekşisözlük profilinizden yorum yazdığınız son 30 konuyu çekebileceğiniz
 
 ' eksisozluk_yorumlarim.php ' dosyasını, projenize include yöntemi ile ekleyin.
 
-Bkz;
+### Bkz;### 
 
 <?php
 include("eksisozluk_yorumlarim.php");
@@ -17,6 +17,6 @@ kullanmak istediğiniz noktada aşağıki fonksiyon kodunu yazın ve kullanıcı
 eksisozluk_yorumlarim("seagullineskisehir");
 ?>
 
-
+==========
 Not; " seagullineskisehir " benim kullanıcı adım değildir, ekşisözlükte çok fazla yorumum olmamasından dolayı
 rastgele birisinin kullanıcı adını kullandım.
