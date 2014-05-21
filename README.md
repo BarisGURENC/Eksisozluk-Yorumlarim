@@ -3,9 +3,11 @@ Eksisozluk-Yorumlarim
 
 Ekşisözlük profilinizden yorum yazdığınız son 30 konuyu çekebileceğiniz php kodları.
 
-' eksisozluk_yorumlarim.php ' dosyasını, projenize include yöntemi ile ekleyin.
 
 # Uygulama;
+
+- eksisozluk_yorumlarim.php ' dosyasını, projenize include yöntemi ile ekleyin.
+
 ```
 <?php 
 include("eksisozluk_yorumlarim.php"); 
