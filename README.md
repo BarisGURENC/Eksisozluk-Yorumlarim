@@ -5,18 +5,19 @@ Ekşisözlük profilinizden yorum yazdığınız son 30 konuyu çekebileceğiniz
 
 ' eksisozluk_yorumlarim.php ' dosyasını, projenize include yöntemi ile ekleyin.
 
-### Bkz;### 
-
-<?php
-include("eksisozluk_yorumlarim.php");
+# Uygulama;
+```
+<?php 
+include("eksisozluk_yorumlarim.php"); 
 ?>
+```
 
 kullanmak istediğiniz noktada aşağıki fonksiyon kodunu yazın ve kullanıcı adınızı girin.
-
+```
 <?php
 eksisozluk_yorumlarim("seagullineskisehir");
 ?>
-
+```
 ==========
 Not; " seagullineskisehir " benim kullanıcı adım değildir, ekşisözlükte çok fazla yorumum olmamasından dolayı
 rastgele birisinin kullanıcı adını kullandım.
