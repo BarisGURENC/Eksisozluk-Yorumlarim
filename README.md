@@ -6,7 +6,7 @@ Ekşisözlük profilinizden yorum yazdığınız son 30 konuyu çekebileceğiniz
 
 # Uygulama;
 
-- eksisozluk_yorumlarim.php ' dosyasını, projenize include yöntemi ile ekleyin.
+- ' eksisozluk_yorumlarim.php ' dosyasını, projenize include yöntemi ile ekleyin.
 
 ```
 <?php 
